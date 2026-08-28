@@ -58,6 +58,22 @@ If you face any difficulty in using the full function or application properly, o
 
 ---
 
+## 📲 Download Application / অ্যাপ্লিকেশন ডাউনলোড করুন
+
+### 🇬🇧 English
+You can download the latest version of the **Tron Trading AI Bot** application from the link below. The APK file is available for Android devices. Click the button to get the app directly.
+
+### 🇧🇩 বাংলা
+আপনি **Tron Trading AI Bot** অ্যাপ্লিকেশনের সর্বশেষ সংস্করণটি নিচের লিংক থেকে ডাউনলোড করতে পারেন। অ্যান্ড্রয়েড ডিভাইসের জন্য এপিকে ফাইলটি উপলব্ধ। অ্যাপটি পেতে বাটনে ক্লিক করুন।
+
+---
+
+[![Download APK](https://img.shields.io/badge/📥%20Download%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shrabonofficial/Tron-Trading-Ai-Bot/releases/tag/Trading)
+
+**[আরও তথ্যের জন্য রিলিজ পেজে যান / Visit the Release Page](https://github.com/shrabonofficial/Tron-Trading-Ai-Bot/releases/tag/Trading)**
+
+---
+
 ## 📞 Contact / যোগাযোগ
 
 | Platform / প্ল্যাটফর্ম | Link / লিংক |

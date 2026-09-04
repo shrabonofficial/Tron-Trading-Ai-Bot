@@ -68,7 +68,44 @@ You can download the latest version of the **Tron Trading AI Bot** application f
 
 ---
 
-[![Download APK](https://img.shields.io/badge/📥%20Download%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shrabonofficial/Tron-Trading-Ai-Bot/releases/tag/Trading)
+<!-- Ad Container Top -->
+<div align="center" style="background: #f0f0f0; padding: 10px; border-radius: 8px; margin: 10px 0; border: 1px solid #ddd;">
+
+<script>
+  atOptions = {
+    'key' : 'ef50c5a08c41e69c463988646aa077dc',
+    'format' : 'iframe',
+    'height' : 50,
+    'width' : 320,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highrevenueformat.com/ef50c5a08c41e69c463988646aa077dc/invoke.js"></script>
+
+</div>
+
+<!-- Download Button -->
+<div align="center">
+  <a href="https://github.com/shrabonofficial/Tron-Trading-Ai-Bot/releases/tag/Trading">
+    <img src="https://img.shields.io/badge/📥%20Download%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</div>
+
+<!-- Ad Container Bottom -->
+<div align="center" style="background: #f0f0f0; padding: 10px; border-radius: 8px; margin: 10px 0; border: 1px solid #ddd;">
+
+<script>
+  atOptions = {
+    'key' : 'ef50c5a08c41e69c463988646aa077dc',
+    'format' : 'iframe',
+    'height' : 50,
+    'width' : 320,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highrevenueformat.com/ef50c5a08c41e69c463988646aa077dc/invoke.js"></script>
+
+</div>
 
 **[আরও তথ্যের জন্য রিলিজ পেজে যান / Visit the Release Page](https://github.com/shrabonofficial/Tron-Trading-Ai-Bot/releases/tag/Trading)**
 
@@ -78,8 +115,8 @@ You can download the latest version of the **Tron Trading AI Bot** application f
 
 | Platform / প্ল্যাটফর্ম | Link / লিংক |
 |------------------------|--------------|
-| 💬 WhatsApp | [Click to Chat / কথোপকথন শুরু করুন](https://wa.me/8801627096941) |
-| 📘 Facebook | [Visit Profile / প্রোফাইল দেখুন](https://www.facebook.com/profile.php?id=61592642930215) |
+| 💬 WhatsApp | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801627096941) |
+| 📘 Facebook | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61592642930215) |
 
 ---
 
